@@ -25,6 +25,8 @@
 
 ### 📈 Estadísticas
 
+> ⚠️ GitHub Stats solo analiza los repos públicos. Aunque PHP no aparezca, tengo experiencia real con **Laravel** y desarrollo de APIs en **PHP**.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHuan004&layout=compact&theme=github_dark&hide_title=true&langs_count=6" height="150"/>
 </p>
