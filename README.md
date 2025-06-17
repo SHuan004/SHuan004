@@ -26,7 +26,6 @@
 ### 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHuan004&show_icons=true&theme=github_dark&hide=issues&hide_title=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHuan004&layout=compact&theme=github_dark&hide_title=true&langs_count=6" height="150"/>
 </p>
 
